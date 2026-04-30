@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋 I'm Galal Mohamed 🚀 Front-End Developer (React & Next.js) <br/> 💡 Building modern web apps with great UX</h1>
+<h1 align="center">Hi 👋, I'm Hi 👋 I'm Galal Mohamed <br/> 🚀 Front-End Developer (React & Next.js) <br/> 💡 Building modern web apps with great UX</h1>
 <h3 align="center">A Passionate Frontend Developer React js From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galalelaasar9&label=Profile%20views&color=0e75b6&style=flat" alt="galalelaasar9" /> </p>
@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I can spend hours fixing a bug only to realize it was a missing semicolon 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="flex">
 <a href="https://linkedin.com/in/galal elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galal elaasar" height="30" width="40" /></a>
 <a href="https://fb.com/galal elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="galal elaasar" height="30" width="40" /></a>
 <a href="https://instagram.com/galal elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galal elaasar" height="30" width="40" /></a>
