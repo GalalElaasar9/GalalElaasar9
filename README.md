@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I can spend hours fixing a bug only to realize it was a missing semicolon 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style={display:"flex"}>
 <a href="https://linkedin.com/in/galal elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galal elaasar" height="30" width="40" /></a>
 <a href="https://fb.com/galal elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="galal elaasar" height="30" width="40" /></a>
 <a href="https://instagram.com/galal_elaasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="galal_elaasar" height="30" width="40" /></a>
