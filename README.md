@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋 I'm Galal Mohamed <br/> 🚀 Front-End Developer (React & Next.js) <br/> 💡 Building modern web apps with great UX</h1>
+<h1 align="center">Hi 👋 I'm Galal Mohamed <br/> 🚀 Front-End Developer (React & Next.js) <br/> 💡 Building modern web apps with great UX</h1>
 <h3 align="center">A Passionate Frontend Developer React js From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galalelaasar9&label=Profile%20views&color=0e75b6&style=flat" alt="galalelaasar9" /> </p>
